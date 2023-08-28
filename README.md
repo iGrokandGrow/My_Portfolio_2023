@@ -36,8 +36,7 @@ Here are some ideas to get you started:
 > 3. Cohort Analysis: The questions I want to answer: Who are the collectors of art produced by black artists? The collectors will be divided by race, subdivided by the race of the artist and locale. Which art do they tend to purchase most often based on the types of images of black Americans (positive, negative, and the skin tone of the subject as well as the artist). 
 > 4. Monte Carlo Simulation: Analyze the effectiveness of traffic management strategies during emergency evacuations. I will simulate various scenarios, such as different evacuation routes, traffic flow adjustments, and population distributions, to determine the most efficient strategy for minimizing congestion and evacuation time.
 > 5. Time Series Analysis: In this project I will focus on predicting cash flow patterns for ATM machines in a banking network. I will use historical data on transaction volumes, weekdays, holidays, and economic indicators to build a predictive model. The questions I will answer: What is the financial trends and provide insights to optimize cash management strategies for the bank.
-> 6. SQL Excel
-> 7. Python
+> 6. SQL, Excel, Python - create an app to scour job postings, returm data to sql db, export keywords of job desc I apply to, narrow the list more to highlight words in job desc where I receive an interview. job openings fitting keywords will kick off a script to update cover letter and resume then notify me when it is time to apply for the job. i will review the letter and resume then kick off a script to apply
 
 <!--- 🔭 I’m currently working on ...
 Insert readme.md from other repos I have. Make project name a link. SQL project, Excel, Monte Carlo Sim, classification, regression, NLP
