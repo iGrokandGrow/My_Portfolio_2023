@@ -1,12 +1,12 @@
 # Antoinette Jaycox 
 > so much has changed since my first experience with an Intel 8088 IBM personal computer in a programming class held in the basement of IBM. 
-SCOUnix, COBOL,Windows and Network, Administration, HTML, Data Governance, PYTHON, Big Data. But the more things change the more...
+BASIC, SCOUnix, COBOL, Windows and Network Administration, HTML/CSS, Data Governance, PYTHON, Big Data Reporting, Data Science. But the more things change the more...
 
 # **iGrok and Grow**
 
 
 
-Data Analyst well versed in SQL, Python, Power BI, and Data Governance 
+Data Analyst well versed in SQL, Python, Power BI, Data Governance, Reporting and Visualization
 
 
 ### Hi there 👋
