@@ -27,7 +27,7 @@ Here are some ideas to get you started:
    <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
 
-> Data is the middle ground between light and shadow, between science and art, and it lies between the pit of man's fears, and the summit of his knowledge. This is the dimension of imagination. It is an area which we call, The Grokker Zone.
+> Data is the middle ground between light and shadow, between science and art, and it lies between the pit of man's fears, and the summit of his knowledge. This is the dimension of imagination. It is an area which we call, The Grokker Zone.[^1]
 > Here you will see visuals and narratives about my projects.
 <!--- 🔭 I’m currently working on ...
 Insert readme.md from other repos I have. Make project name a link 
@@ -41,3 +41,4 @@ add image -->
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[^1] Paraphrase of intro to The Twilight Zone
