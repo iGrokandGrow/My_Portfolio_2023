@@ -34,5 +34,4 @@ Here are some ideas to get you started:
    </a> <br>
   <a href = "https://komarev.com/ghpvc/?username=iGrokandGrow"/>
    <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-   </a>
 </div>
